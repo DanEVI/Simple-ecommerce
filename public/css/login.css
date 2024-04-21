@@ -1,0 +1,8 @@
+/* VARIABLES */
+:root{
+    --background: #7EC0C0;
+}
+
+.background{
+    background-color: var(--background);
+}
